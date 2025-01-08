@@ -1,0 +1,18 @@
+{
+  "smtp" : {
+    "host" : "smtp.imitate.email",
+    "port" : 465,
+    "auth" : {
+      "user" : "3CxI2aSpFkK48QGTgPIxZw",
+      "pass" : "Byj6FqzE4dFLOZprHG4u"
+    }
+  },
+  "imap" : {
+    "host" : "imap.imitate.email",
+    "port" : 993,
+    "auth" : {
+      "user" : "3CxI2aSpFkK48QGTgPIxZw",
+      "pass" : "Byj6FqzE4dFLOZprHG4u"
+    }
+  }
+}
